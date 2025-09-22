@@ -55,5 +55,3 @@ Curious by nature, practical by choice. I love building simple, reliable softwar
 ![Dwiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwikiriyadi&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dwikiriyadi&layout=compact&theme=transparent&hide_border=true)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dwikiriyadi&theme=github-compact&hide_border=true)
-
----
