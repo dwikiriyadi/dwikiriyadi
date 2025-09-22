@@ -6,9 +6,10 @@
 
 Curious by nature, practical by choice. I love building simple, reliable software that scales across platforms.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwikiriyadi/) [![Dev.to](https://img.shields.io/badge/Dev.to-Articles-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/dwkryd) [![Medium](https://img.shields.io/badge/Medium-@wikinotes-12100E?logo=medium&logoColor=white)](https://medium.com/@wikinotes) [![Instagram](https://img.shields.io/badge/Instagram-@dwkryd-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/dwkryd/) [![Discord](https://img.shields.io/badge/Discord-Join%20the%20server-5865F2?logo=discord&logoColor=white)](https://discord.gg/2cs7Hn9Uht)
-
 > “Code is a tool. What matters is the experience we create for both developers and users.”
+
+### Get in touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwikiriyadi/) [![Dev.to](https://img.shields.io/badge/Dev.to-Articles-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/dwkryd) [![Medium](https://img.shields.io/badge/Medium-@wikinotes-12100E?logo=medium&logoColor=white)](https://medium.com/@wikinotes) [![Instagram](https://img.shields.io/badge/Instagram-@dwkryd-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/dwkryd/) [![Discord](https://img.shields.io/badge/Discord-Join%20the%20server-5865F2?logo=discord&logoColor=white)](https://discord.gg/2cs7Hn9Uht) [![Website](https://img.shields.io/badge/Website-dwikiriyadi.github.io-0A0A0A?logo=firefox&logoColor=white)](https://dwikiriyadi.github.io)
 
 ---
 
@@ -34,13 +35,6 @@ Curious by nature, practical by choice. I love building simple, reliable softwar
 
 ---
 
-## 📊 GitHub Stats
-
-![Dwiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwikiriyadi&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dwikiriyadi&layout=compact&theme=transparent&hide_border=true)
-
----
-
 ## 🎮 Beyond the code
 - Solo gaming — story‑driven adventures and strategy
 - Reading — psychology, history, mindset, and manga
@@ -49,3 +43,8 @@ Curious by nature, practical by choice. I love building simple, reliable softwar
 ---
 
 [**Explore my projects**](https://github.com/dwikiriyadi?tab=repositories) • [**Join the conversation**](https://discord.gg/2cs7Hn9Uht)
+
+## 📊 GitHub Stats
+
+<p align="center">![GitHub Streak](https://streak-stats.demolab.com?user=dwikiriyadi&theme=transparent&hide_border=true)<br/>![Dwiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwikiriyadi&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dwikiriyadi&layout=compact&theme=transparent&hide_border=true)<br/>![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dwikiriyadi&theme=github-compact&hide_border=true)</p>
+---
