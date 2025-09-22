@@ -9,7 +9,12 @@ Curious by nature, practical by choice. I love building simple, reliable softwar
 > “Code is a tool. What matters is the experience we create for both developers and users.”
 
 ### Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwikiriyadi/) [![Dev.to](https://img.shields.io/badge/Dev.to-Articles-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/dwkryd) [![Medium](https://img.shields.io/badge/Medium-@wikinotes-12100E?logo=medium&logoColor=white)](https://medium.com/@wikinotes) [![Instagram](https://img.shields.io/badge/Instagram-@dwkryd-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/dwkryd/) [![Discord](https://img.shields.io/badge/Discord-Join%20the%20server-5865F2?logo=discord&logoColor=white)](https://discord.gg/2cs7Hn9Uht) [![Website](https://img.shields.io/badge/Website-dwikiriyadi.github.io-0A0A0A?logo=firefox&logoColor=white)](https://dwikiriyadi.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwikiriyadi/) 
+[![Dev.to](https://img.shields.io/badge/Dev.to-Articles-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/dwkryd) 
+[![Medium](https://img.shields.io/badge/Medium-@wikinotes-12100E?logo=medium&logoColor=white)](https://medium.com/@wikinotes) 
+[![Instagram](https://img.shields.io/badge/Instagram-@dwkryd-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/dwkryd/) 
+[![Discord](https://img.shields.io/badge/Discord-Join%20the%20server-5865F2?logo=discord&logoColor=white)](https://discord.gg/2cs7Hn9Uht) 
+[![Website](https://img.shields.io/badge/Website-dwikiriyadi.github.io-0A0A0A?logo=firefox&logoColor=white)](https://dwikiriyadi.github.io)
 
 ---
 
